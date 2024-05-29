@@ -19,7 +19,7 @@ const products = [
                         <div class="product-date">Date: ${product.date}</div>
                         <div class="product-size">Size: ${product.size}</div>
                     </div>
-                    <a href="#" class="download-btn">Download<span class="icon">
+                    <a href="https://drive.google.com/file/d/1l8VVBPPbVTYvYTr_Hfhnvc4Vh7WSHWu5/view" class="download-btn">Download<span class="icon">
                     <ion-icon name="download-outline"></ion-icon>
                 </span></a>
                 `;
