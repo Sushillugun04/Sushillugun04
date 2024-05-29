@@ -47,9 +47,4 @@ const products = [
         video.addEventListener('ended', () => {
             alert('Video has ended.');
         });
-const video = document.getElementById('videoPlayer');
-        
-        video.addEventListener('ended', () => {
-            alert('Video has ended.');
-        });
-   
+
