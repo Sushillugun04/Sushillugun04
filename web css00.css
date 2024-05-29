@@ -52,10 +52,14 @@
             padding: 20px;
         }
 
-        .video-player {
-            width: 100%;
-            max-width: 800px;
-            margin: 0 auto;
+             .video-coontainer {
+            margin: 20px 0;
+            text-align: center;
+        }
+        video {
+            width: 80%;
+            max-width: 600px;
+            height: auto;
         }
 
         .download-button {
