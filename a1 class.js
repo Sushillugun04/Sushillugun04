@@ -41,4 +41,10 @@ const products = [
 
         // Initial display of all products
         displayProducts(products);
+// JavaScript to handle video player functionality
+        const video = document.getElementById('videoPlayer');
+        
+        video.addEventListener('ended', () => {
+            alert('Video has ended.');
+        });
    
